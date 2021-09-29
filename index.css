@@ -1,5 +1,5 @@
 body {
-  background: url("/assets/work.jpg") fixed;
+  background: url("./assets/work.jpg") fixed;
   /* Full height */
   height: 100%;
 
